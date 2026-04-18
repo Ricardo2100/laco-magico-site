@@ -1,0 +1,32 @@
+LAÇO MÁGICO — SITE PRONTO PARA PUBLICAR
+
+ARQUIVOS PRINCIPAIS
+- index.html
+- pasta assets
+- netlify.toml
+- vercel.json
+
+INSTAGRAM
+- Perfil conectado: https://instagram.com/lacomagicoatelier
+
+WHATSAPP
+- Link configurado: https://wa.me/5524981129421
+
+E-MAIL
+- O site exibe e usa o e-mail informado: laçomagicocrochetaria@gmail.com
+- Atenção: endereços com ç podem não funcionar em todos os navegadores e aplicativos de e-mail. Se o seu endereço real for sem caracteres especiais, atualize depois no index.html.
+
+COMO PUBLICAR NO NETLIFY
+1. Acesse o Netlify.
+2. Escolha a opção de novo site por upload.
+3. Arraste esta pasta inteira ou envie o ZIP extraído.
+4. O site entra no ar com um link público.
+
+COMO PUBLICAR NA VERCEL
+1. Acesse a Vercel.
+2. Crie um novo projeto por upload.
+3. Envie esta pasta.
+4. A Vercel publica o index.html automaticamente.
+
+DOMÍNIO PRÓPRIO
+Depois da publicação, adicione seu domínio dentro da plataforma escolhida.
